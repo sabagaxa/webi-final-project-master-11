@@ -66,3 +66,89 @@ body {
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
+.about-me {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-top: 32px;
+    padding-inline: 0;
+}
+.about-me-h2 {
+    font-family: Inter monospace;
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: 0;
+    color: #fff;
+}
+.about-me-p {
+    font-family: Inter monospace;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0;
+    color: #C0C5D0;
+}
+.skill {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 32px;
+    padding-inline: 0;
+}
+.skill-h2 {
+    font-family: Inter monospace;
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: 0;
+    color: #fff;
+}
+.skill-p {
+    font-family: Inter monospace;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    color: #C0C5D0;
+}
+.experience {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 32px;
+    padding-inline: 0;
+}
+.experience-h2 {
+    font-family: Inter monospace;
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: 0;
+    color: #fff;
+}
+.experience-p {
+    font-family: Inter monospace;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    color: #C0C5D0;
+}
+.education {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 32px;
+    padding-inline: 0;
+}
+.education-h2 {
+    font-family: Inter monospace;
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: 0;
+    color: #fff;
+}
+.education-p {
+    font-family: Inter monospace;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    color: #C0C5D0;
+}
